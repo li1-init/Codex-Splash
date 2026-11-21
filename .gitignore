@@ -1,4 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
+.build/
+dist/
 .Welcome Jay*.render.mp4
